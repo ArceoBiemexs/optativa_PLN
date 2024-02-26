@@ -1,0 +1,11 @@
+Autor: Arceo Jacobo Oswaldo Daniel
+28 / 08 / 2023
+Práctica 1.- Algoritmo de agrupamiento K-Medias
+FACULTAD DE INGENIERIA MECANICA Y ELECTRICA
+APRENDIZAJE MÁQUINA
+MAESTRO: MORAN LÓPEZ LUIS EDUARDO
+5 " D "
+Objetivos
+En esta práctica lograremos entender y crear un algoritmo mediante la información que el profesor nos hizo llegar mediante las clases. En otras palabras, es entender cómo funciona el algoritmo K-Means, que es como una herramienta mágica para agrupar cosas parecidas. Imagina que tienes un montón de datos, como puntos en un mapa, y quieres ponerlos en grupos según lo cerca que estén entre sí. Por ejemplo, si estás tratando de agrupar amigos en categorías según sus edades, K-Means te ayuda a hacer esto automáticamente. es aprender cómo usar K-Means para organizar datos automáticamente en grupos que tengan sentido. Es como si tuviéramos una varita mágica que nos ayuda a organizar amigos o cualquier otro tipo de datos en grupos de manera inteligente.
+Introducción
+Comenzando con el IDE, que será la herramienta para la práctica junto con Python, desarrollaremos el algoritmo de k-medias, una practica utilizada para aprendizaje no supervisada (clusterización) que agrupa objetos en k grupos basándose en sus características. El agrupamiento se realiza minimizando la suma de distancias entre cada objeto y el centroide de su grupo o cluster. Se suele usar la distancia cuadrática.
